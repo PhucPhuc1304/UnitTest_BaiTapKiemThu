@@ -1,0 +1,17 @@
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\BasicMath1.dll
+D:\TEST_CASE\TEST2\BasicMath\UnitTestProject\bin\Debug\BasicMath1.pdb

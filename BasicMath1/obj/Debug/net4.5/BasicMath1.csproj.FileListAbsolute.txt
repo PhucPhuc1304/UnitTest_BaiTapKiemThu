@@ -1,0 +1,9 @@
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\bin\Debug\net4.5\BasicMath1.dll
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\bin\Debug\net4.5\BasicMath1.pdb
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.csproj.AssemblyReference.cache
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.AssemblyInfoInputs.cache
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.AssemblyInfo.cs
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.csproj.CoreCompileInputs.cache
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.dll
+D:\TEST_CASE\TEST2\BasicMath\BasicMath1\obj\Debug\net4.5\BasicMath1.pdb
